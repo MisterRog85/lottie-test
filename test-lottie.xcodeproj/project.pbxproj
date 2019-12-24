@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2328F3F923950D3D000EE7F6 /* outline-reverse.json in Resources */ = {isa = PBXBuildFile; fileRef = 2328F3F823950D3C000EE7F6 /* outline-reverse.json */; };
 		2328F3FB23950D53000EE7F6 /* outline.json in Resources */ = {isa = PBXBuildFile; fileRef = 2328F3FA23950D53000EE7F6 /* outline.json */; };
 		2390A743239112FC008B229E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2390A742239112FC008B229E /* AppDelegate.swift */; };
 		2390A745239112FC008B229E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2390A744239112FC008B229E /* SceneDelegate.swift */; };
@@ -21,7 +20,6 @@
 
 /* Begin PBXFileReference section */
 		10982CFADD22AE7BF9C1669B /* Pods_test_lottie.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test_lottie.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2328F3F823950D3C000EE7F6 /* outline-reverse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "outline-reverse.json"; sourceTree = "<group>"; };
 		2328F3FA23950D53000EE7F6 /* outline.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = outline.json; sourceTree = "<group>"; };
 		2328F3FD2395460C000EE7F6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		2390A73F239112FC008B229E /* test-lottie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "test-lottie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -52,7 +50,6 @@
 		2328F3FC2395115E000EE7F6 /* Animations */ = {
 			isa = PBXGroup;
 			children = (
-				2328F3F823950D3C000EE7F6 /* outline-reverse.json */,
 				2328F3FA23950D53000EE7F6 /* outline.json */,
 			);
 			path = Animations;
@@ -174,7 +171,6 @@
 				2390A74C239112FF008B229E /* Assets.xcassets in Resources */,
 				2328F3FB23950D53000EE7F6 /* outline.json in Resources */,
 				2390A74A239112FC008B229E /* Main.storyboard in Resources */,
-				2328F3F923950D3D000EE7F6 /* outline-reverse.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
